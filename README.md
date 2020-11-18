@@ -1,5 +1,11 @@
+
 # PayyCoin - Token Smart Contract
+
+![PayyCoin](https://payycoin.io/assets/image/PayyCoin_Logo.png)
+
 PayyCoin (PAYY) is smart contract based on ERC20 
+
+## Token Detail
 |  |  |
 |--|--|
 | Token Name |  PayyCoin|
